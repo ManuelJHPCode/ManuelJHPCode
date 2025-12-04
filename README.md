@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Manuel Jesús
+## Hi there 👋 My name is Manuel Jesús Méndez
 
 - 🔭 I’m currently working on Universidad de Córdoba
 - 🌱 I’m currently learning Computation
